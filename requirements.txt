@@ -1,0 +1,5 @@
+streamlit
+firebase_admin
+pandas
+hashlib
+urllib
